@@ -38,7 +38,7 @@ def slow_type(x):
     for letter in x:
         sys.stdout.write(letter)
         sys.stdout.flush()
-        time.sleep(0.07)
+        time.sleep(0.07) # Can use random to vary the speed.
     
 if __name__ == '__main__':
     main()
