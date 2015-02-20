@@ -1,0 +1,5 @@
+BOOK:Proverbs
+CHAPTER:17
+VERSE:17
+TEXT:A true friend shows love at all times, 
+and is a brother who is born for times of distress.
